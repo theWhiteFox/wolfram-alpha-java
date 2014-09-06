@@ -1,0 +1,12 @@
+1-
+2- Current commodity price- will return the answer stored in the answers file
+	Current commodity price
+	
+	t`his type of question should not be written to the questions or answers file.
+	seach the responce 
+		if the response has a todays date Either month or day and month 
+		do not save.
+3- Question : do ghosts exists : yields response - g'ohsts (IPA: \:0261\:02c8o\:028asts).
+	Heading :American pronunciation.
+4 remove ? from questions 
+	remove if the user adds the ? to the end of the Question.
