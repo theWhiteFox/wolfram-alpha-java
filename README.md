@@ -1,4 +1,4 @@
-way too big :)
+way too big :boom:
 CONTENTS OF THIS FILE
 ---------------------
 * Introduction
